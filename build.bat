@@ -1,9 +1,8 @@
 echo off
 
-echo "**********"
+echo "***********************"
 
-echo "
-
+echo "                       "
 echo "Deleting the folder..."
 rmdir /Q/S c:\server1
 
